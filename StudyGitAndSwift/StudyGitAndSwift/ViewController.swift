@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         NSLog("DEV1 Change")
+        NSLog("DEV2")
     }
 }
 
